@@ -7,7 +7,7 @@
     </p>
     <p align="center">
         <a href="https://sites.google.com/view/dvurechensky" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Dvurechensky-N-blue"></a>
-        <img src="https://img.shields.io/badge/Csharp-VS2022-blue?logo=csharp&logoColor=FFFF00">
+        <img src="https://img.shields.io/badge/++-VS2022-blue?logo=c%2B%2B&logoColor=FFFF00">
     </p>
 </p>
 
