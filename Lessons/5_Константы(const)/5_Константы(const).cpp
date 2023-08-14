@@ -13,10 +13,9 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, "Rus");
-
 	const int CONST_VALUE = 1;	// имя константы пишется всегда в верхнем регистре и объявляется перед любым типом данных
-	
 	cout << CONST_VALUE << endl;
+	cin.get();
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

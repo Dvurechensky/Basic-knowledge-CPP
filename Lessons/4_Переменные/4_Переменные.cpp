@@ -31,6 +31,7 @@ int main()
 	cout << a << endl;
 	cout << b << endl;
 	cout << k << endl;
+	cin.get();
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

@@ -25,6 +25,8 @@ int main()
 #pragma region Логические
     bool boolVal = true;            // 1 байт - описывает логические значения true:false
 #pragma endregion
+
+    cin.get();
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
