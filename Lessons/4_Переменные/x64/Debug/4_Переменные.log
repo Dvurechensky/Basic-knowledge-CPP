@@ -1,0 +1,4 @@
+﻿  4_Переменные.cpp
+D:\Basic-knowledge-CPP\Lessons\4_Переменные\4_Переменные.cpp(29,12): warning C4101: m: неиспользованная локальная переменная
+D:\Basic-knowledge-CPP\Lessons\4_Переменные\4_Переменные.cpp(29,9): warning C4101: g: неиспользованная локальная переменная
+  4_Переменные.vcxproj -> D:\Basic-knowledge-CPP\Lessons\x64\Debug\4_Переменные.exe
