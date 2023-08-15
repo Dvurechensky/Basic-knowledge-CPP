@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_Lesson_Первая_программа", "1_Lesson_Первая_программа\1_Lesson_Первая_программа.vcxproj", "{2D1CA9C4-5A5C-49F8-8972-58865146A6DA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_Первая_программа", "1_Lesson_Первая_программа\1_Lesson_Первая_программа.vcxproj", "{2D1CA9C4-5A5C-49F8-8972-58865146A6DA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_Lesson_Escape_последовательности", "2_Lesson_Escape_последовательности\2_Lesson_Escape_последовательности.vcxproj", "{546C7E27-22A5-44FA-8257-3FF1E99D2D60}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_Escape_последовательности", "2_Lesson_Escape_последовательности\2_Lesson_Escape_последовательности.vcxproj", "{546C7E27-22A5-44FA-8257-3FF1E99D2D60}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_Lesson_Типы_данных", "3_Lesson_Типы_данных\3_Lesson_Типы_данных.vcxproj", "{0109E714-3EDA-4DEA-8F63-94B7DE552761}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_Переменные", "4_Переменные\4_Переменные.vcxproj", "{2B6DD2EE-BD4E-423A-84F2-8F974844DE3A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_Константы(const)", "5_Константы(const)\5_Константы(const).vcxproj", "{B6E5A665-DE19-400A-888E-98E6417BE3B9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_Ввод_данных", "6_Ввод_данных\6_Ввод_данных.vcxproj", "{1194B965-C4A1-46D5-BF2A-6B095762AB67}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7_Арифметические_операции", "7_Арифметические_операции\7_Арифметические_операции.vcxproj", "{D718B8C9-7E44-4855-947E-819CC283B7FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +65,22 @@ Global
 		{B6E5A665-DE19-400A-888E-98E6417BE3B9}.Release|x64.Build.0 = Release|x64
 		{B6E5A665-DE19-400A-888E-98E6417BE3B9}.Release|x86.ActiveCfg = Release|Win32
 		{B6E5A665-DE19-400A-888E-98E6417BE3B9}.Release|x86.Build.0 = Release|Win32
+		{1194B965-C4A1-46D5-BF2A-6B095762AB67}.Debug|x64.ActiveCfg = Debug|x64
+		{1194B965-C4A1-46D5-BF2A-6B095762AB67}.Debug|x64.Build.0 = Debug|x64
+		{1194B965-C4A1-46D5-BF2A-6B095762AB67}.Debug|x86.ActiveCfg = Debug|Win32
+		{1194B965-C4A1-46D5-BF2A-6B095762AB67}.Debug|x86.Build.0 = Debug|Win32
+		{1194B965-C4A1-46D5-BF2A-6B095762AB67}.Release|x64.ActiveCfg = Release|x64
+		{1194B965-C4A1-46D5-BF2A-6B095762AB67}.Release|x64.Build.0 = Release|x64
+		{1194B965-C4A1-46D5-BF2A-6B095762AB67}.Release|x86.ActiveCfg = Release|Win32
+		{1194B965-C4A1-46D5-BF2A-6B095762AB67}.Release|x86.Build.0 = Release|Win32
+		{D718B8C9-7E44-4855-947E-819CC283B7FA}.Debug|x64.ActiveCfg = Debug|x64
+		{D718B8C9-7E44-4855-947E-819CC283B7FA}.Debug|x64.Build.0 = Debug|x64
+		{D718B8C9-7E44-4855-947E-819CC283B7FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D718B8C9-7E44-4855-947E-819CC283B7FA}.Debug|x86.Build.0 = Debug|Win32
+		{D718B8C9-7E44-4855-947E-819CC283B7FA}.Release|x64.ActiveCfg = Release|x64
+		{D718B8C9-7E44-4855-947E-819CC283B7FA}.Release|x64.Build.0 = Release|x64
+		{D718B8C9-7E44-4855-947E-819CC283B7FA}.Release|x86.ActiveCfg = Release|Win32
+		{D718B8C9-7E44-4855-947E-819CC283B7FA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

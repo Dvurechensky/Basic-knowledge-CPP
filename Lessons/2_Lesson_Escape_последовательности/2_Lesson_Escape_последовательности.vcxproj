@@ -24,6 +24,7 @@
     <ProjectGuid>{546c7e27-22a5-44fa-8257-3ff1e99d2d60}</ProjectGuid>
     <RootNamespace>My2LessonEscapeпоследовательности</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>2_Escape_последовательности</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
